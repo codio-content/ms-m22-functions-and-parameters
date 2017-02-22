@@ -1,0 +1,28 @@
+[
+ {
+  "type": "code-output-compare",
+  "taskId": "code-output-compare-2344740477",
+  "source": {
+   "name": "FuncTest1",
+   "showName": false,
+   "preExecuteCommand": "",
+   "command": "python3 .guides/content/FunctionTest1.py",
+   "points": 5,
+   "oneTimeTest": false,
+   "instructions": "",
+   "options": {
+    "ignoreCase": true,
+    "ignoreWhitespaces": true,
+    "ignoreNewline": true,
+    "timeout": 30
+   },
+   "sequence": [
+    {
+     "arguments": "14",
+     "input": "",
+     "output": "you are too young to get your license"
+    }
+   ]
+  }
+ }
+]
